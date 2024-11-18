@@ -1,0 +1,131 @@
+{
+  "totalResults": 17,
+  "returnedResults": 17,
+  "filter": "d",
+  "offset": 40,
+  "index": 0,
+  "orderBy": "DATE",
+  "searchOrder": "ASCENDING",
+  "searchError": "Index and Offset out of range.",
+  "results": [
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "name": "United Spirits",
+      "code": "ClientCode23",
+      "inception": "2005-12-23T00:00:00+00:00",
+      "matterCount": 12
+    },
+    {
+      "clientId": "66151b7a-aecb-4274-b937-3abc7924a4d7",
+      "name": "Danaher Corporation",
+      "code": "ClientCode39",
+      "inception": "2010-03-30T00:00:00+00:00",
+      "matterCount": 22
+    },
+    {
+      "clientId": "1c2de4e8-1bc1-45ac-8d79-ab9b8727129b",
+      "name": "Cambridge Analytics",
+      "code": "ClientCode10",
+      "inception": "2011-01-24T00:00:00+00:00",
+      "matterCount": 23
+    },
+    {
+      "clientId": "386e781c-b65f-46d2-963d-41f659315529",
+      "name": "British Land",
+      "code": "ClientCode18",
+      "inception": "2011-07-03T00:00:00+00:00",
+      "matterCount": 5
+    },
+    {
+      "clientId": "795a8cfa-1538-400d-9915-774caa8b006a",
+      "name": "Cambridge Audio",
+      "code": "ClientCode11",
+      "inception": "2012-06-16T00:00:00+00:00",
+      "matterCount": 9
+    },
+    {
+      "clientId": "8f4da2bc-cfe1-4f8f-94e0-c9e8fb3fbcd3",
+      "name": "Moderna Inc",
+      "code": "ClientCode36",
+      "inception": "2013-12-02T00:00:00+00:00",
+      "matterCount": 82
+    },
+    {
+      "clientId": "8f4e8f53-0227-4fe4-b12e-702b2d08fb65",
+      "name": "Vodafone",
+      "code": "ClientCode31",
+      "inception": "2016-01-01T00:00:00+00:00",
+      "matterCount": 39
+    },
+    {
+      "clientId": "dc33bb7c-0d48-4227-b3ff-9d2e6aab3ce2",
+      "name": "Jaguar Landrover",
+      "code": "ClientCode13",
+      "inception": "2016-07-16T00:00:00+00:00",
+      "matterCount": 12
+    },
+    {
+      "clientId": "dadbd4a7-47f3-4114-9486-8011f005dad9",
+      "name": "Diageo",
+      "code": "ClientCode25",
+      "inception": "2016-11-22T00:00:00+00:00",
+      "matterCount": 7
+    },
+    {
+      "clientId": "35099c78-c605-41ae-8654-157a6c0e9ee7",
+      "name": "Daniel Thwaites",
+      "code": "ClientCode27",
+      "inception": "2017-01-16T00:00:00+00:00",
+      "matterCount": 80
+    },
+    {
+      "clientId": "85e71197-d600-4043-a0d9-343326cecb13",
+      "name": "Dubai Holdings",
+      "code": "ClientCode16",
+      "inception": "2019-07-19T00:00:00+00:00",
+      "matterCount": 19
+    },
+    {
+      "clientId": "aba05993-5099-452f-be5b-0f24595a0b00",
+      "name": "Arnold Clark",
+      "code": "ClientCode3",
+      "inception": "2021-04-13T00:00:00+00:00",
+      "matterCount": 36
+    },
+    {
+      "clientId": "38bedef7-e82c-475e-96f3-215e27eab44b",
+      "name": "J Procter Developments",
+      "code": "ClientCode49",
+      "inception": "2021-07-11T00:00:00+00:00",
+      "matterCount": 23
+    },
+    {
+      "clientId": "3ddaa4f6-1739-43a7-b6dc-c473689ed2e7",
+      "name": "Dyson UK",
+      "code": "ClientCode14",
+      "inception": "2021-10-17T00:00:00+00:00",
+      "matterCount": 9
+    },
+    {
+      "clientId": "bf04bec3-4c16-4157-9bbc-04ed6df5e289",
+      "name": "Edwards Lifesciences Corporation",
+      "code": "ClientCode46",
+      "inception": "2022-02-22T00:00:00+00:00",
+      "matterCount": 89
+    },
+    {
+      "clientId": "e545a90d-8566-4e7e-a4de-7e89ad2f2438",
+      "name": "Moderna Inc",
+      "code": "ClientCode33",
+      "inception": "2023-01-29T00:00:00+00:00",
+      "matterCount": 52
+    },
+    {
+      "clientId": "63ef987c-3e2b-494c-b157-2640e2597430",
+      "name": "Becton, Dickinson and Company",
+      "code": "ClientCode44",
+      "inception": "2024-06-03T00:00:00+00:00",
+      "matterCount": 2
+    }
+  ]
+}

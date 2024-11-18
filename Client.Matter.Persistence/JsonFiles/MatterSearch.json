@@ -1,0 +1,46 @@
+{
+  "totalResults": 12,
+  "returnedResults": 5,
+  "offset": 5,
+  "index": 0,
+  "orderBy": "DATE",
+  "searchOrder": "ASCENDING",
+  "searchError": null,
+  "results": [
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "matterId": "88a3f1fa-1a49-4be1-817f-06db90f284dd",
+      "matterName": "Fuga et optio facilis dolor enim corrupt",
+      "matterCode": "UNITE0",
+      "matterDate": "2005-12-23T00:00:00+00:00"
+    },
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "matterId": "955d4f4a-8d7e-4a81-8323-035af18676bb",
+      "matterName": "Quia ut hic eos dolorum qui rerum vitae ",
+      "matterCode": "UNITE1",
+      "matterDate": "2007-07-21T07:00:00+00:00"
+    },
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "matterId": "8936b433-a0ec-4df5-84d8-3ef60b4bb599",
+      "matterName": "Fugiat iste explicabo deleniti adipisci ",
+      "matterCode": "UNITE2",
+      "matterDate": "2009-02-15T14:00:00+00:00"
+    },
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "matterId": "acd4c6f1-6666-404c-b142-09d79ce27dec",
+      "matterName": "Dolorum provident pariatur hic asperiore",
+      "matterCode": "UNITE3",
+      "matterDate": "2010-09-13T21:00:00+00:00"
+    },
+    {
+      "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+      "matterId": "db7058a3-609d-49ca-9227-f6df971139de",
+      "matterName": "Qui ut sunt culpa ea nostrum corrupti. A",
+      "matterCode": "UNITE4",
+      "matterDate": "2012-04-11T04:00:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "clientId": "de398bc3-85f5-4abd-b2a8-1cbdc38f93cf",
+  "name": "United Spirits",
+  "code": "ClientCode23",
+  "description": "This is a placeholder description for client number 23",
+  "inceptionDate": "2005-12-23T00:00:00+00:00",
+  "address": {
+    "addressLine1": "2834 Eulah Crescent Suite 225",
+    "addressLine2": "Town",
+    "city": "Lake Serena",
+    "county": "Dyfed",
+    "postcode": "RF6 1NF"
+  },
+  "people": [
+    {
+      "title": "Miss",
+      "firstName": "Jarret",
+      "lastName": "Labadie",
+      "preferredName": "Jarret",
+      "email": "jarret.labadie@steuber.ca",
+      "phone": "1-230-994-6248"
+    },
+    {
+      "title": "Ms.",
+      "firstName": "Shania",
+      "lastName": "Herzog",
+      "preferredName": "Shania",
+      "email": "shania_herzog@kohlerziemann.co.uk",
+      "phone": "(097)106-7341"
+    },
+    {
+      "title": "Dr.",
+      "firstName": "Polly",
+      "lastName": "Jacobson",
+      "preferredName": "Polly",
+      "email": "polly.jacobson@wilkinson.com",
+      "phone": "(828)366-7780 x256"
+    }
+  ],
+  "matterCount": 12
+}
